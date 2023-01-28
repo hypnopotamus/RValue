@@ -22,6 +22,7 @@ module.exports = {
                 errors: true,
                 warnings: false,
             },
+            progress: true,
         },
     },
     output: {
